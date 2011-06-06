@@ -1,0 +1,8 @@
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\bin\Debug\BookShare.Tests.dll.config
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\bin\Debug\BookShare.Tests.dll
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\bin\Debug\BookShare.Tests.pdb
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\bin\Debug\BookShare.dll
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\bin\Debug\BookShare.pdb
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\obj\Debug\BookShare.Tests.dll
+c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare.Tests\obj\Debug\BookShare.Tests.pdb
