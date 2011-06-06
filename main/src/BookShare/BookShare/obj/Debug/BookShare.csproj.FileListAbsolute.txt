@@ -5,3 +5,10 @@ c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare\bin\E
 c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare\obj\Debug\ResolveAssemblyReference.cache
 c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare\obj\Debug\BookShare.dll
 c:\Users\Zedster\Documents\Visual Studio 2010\Projects\BookShare\BookShare\obj\Debug\BookShare.pdb
+D:\GIT\BookShare\main\src\BookShare\BookShare\bin\BookShare.dll
+D:\GIT\BookShare\main\src\BookShare\BookShare\bin\BookShare.pdb
+D:\GIT\BookShare\main\src\BookShare\BookShare\bin\EntityFramework.dll
+D:\GIT\BookShare\main\src\BookShare\BookShare\bin\EntityFramework.xml
+D:\GIT\BookShare\main\src\BookShare\BookShare\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\BookShare\main\src\BookShare\BookShare\obj\Debug\BookShare.dll
+D:\GIT\BookShare\main\src\BookShare\BookShare\obj\Debug\BookShare.pdb
